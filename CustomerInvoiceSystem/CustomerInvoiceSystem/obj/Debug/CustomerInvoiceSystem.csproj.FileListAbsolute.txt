@@ -99,3 +99,4 @@ C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSys
 C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSystem\obj\Debug\CustomerInvoiceSystem.Migrations.CustomerModel.resources
 C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSystem\obj\Debug\CustomerInvoiceSystem.Migrations.CustomerModel1.resources
 C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSystem\obj\Debug\CustomerInvoiceSystem.Migrations.OrderModel.resources
+C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSystem\obj\Debug\CustomerInvoiceSystem.Migrations.InvoiceModel.resources

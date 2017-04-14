@@ -210,10 +210,15 @@
     <Compile Include="Migrations\201704141109176_OrderModel.Designer.cs">
       <DependentUpon>201704141109176_OrderModel.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201704141120379_InvoiceModel.cs" />
+    <Compile Include="Migrations\201704141120379_InvoiceModel.Designer.cs">
+      <DependentUpon>201704141120379_InvoiceModel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Invoice.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Order.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -307,6 +312,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201704141109176_OrderModel.resx">
       <DependentUpon>201704141109176_OrderModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201704141120379_InvoiceModel.resx">
+      <DependentUpon>201704141120379_InvoiceModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
