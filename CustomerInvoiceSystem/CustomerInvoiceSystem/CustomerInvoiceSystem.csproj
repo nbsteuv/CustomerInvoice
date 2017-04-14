@@ -194,8 +194,21 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201704141021535_InitialModel.cs" />
+    <Compile Include="Migrations\201704141021535_InitialModel.Designer.cs">
+      <DependentUpon>201704141021535_InitialModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201704141037516_CustomerModel.cs" />
+    <Compile Include="Migrations\201704141037516_CustomerModel.Designer.cs">
+      <DependentUpon>201704141037516_CustomerModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201704141047002_CustomerModel1.cs" />
+    <Compile Include="Migrations\201704141047002_CustomerModel1.Designer.cs">
+      <DependentUpon>201704141047002_CustomerModel1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -276,6 +289,17 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201704141021535_InitialModel.resx">
+      <DependentUpon>201704141021535_InitialModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201704141037516_CustomerModel.resx">
+      <DependentUpon>201704141037516_CustomerModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201704141047002_CustomerModel1.resx">
+      <DependentUpon>201704141047002_CustomerModel1.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

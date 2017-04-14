@@ -94,3 +94,7 @@ C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSys
 C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSystem\obj\Debug\CustomerInvoiceSystem.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSystem\obj\Debug\CustomerInvoiceSystem.dll
 C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSystem\obj\Debug\CustomerInvoiceSystem.pdb
+C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSystem\obj\Debug\CustomerInvoiceSystem.Migrations.InitialModel.resources
+C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSystem\obj\Debug\CustomerInvoiceSystem.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSystem\obj\Debug\CustomerInvoiceSystem.Migrations.CustomerModel.resources
+C:\Users\Nick\Documents\CustomerInvoice\CustomerInvoiceSystem\CustomerInvoiceSystem\obj\Debug\CustomerInvoiceSystem.Migrations.CustomerModel1.resources
