@@ -1,0 +1,25 @@
+﻿@model IEnumerable<CustomerInvoiceSystem.Models.Customer>
+@{
+    ViewBag.Title = "Customers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Customers</h2>
+
+<table>
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>Phone</td>
+            <td>Email</td>
+        </tr>
+    </thead>
+    @foreach(var customer in Model)
+    {
+        <tr>
+            <td>@customer.Name</td>
+            <td>@customer.Phone</td>
+            <td>@customer.Email</td>
+        </tr>
+    }
+</table>
